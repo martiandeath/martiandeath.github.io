@@ -18,6 +18,4 @@
 
 #### Road Cross
 
-https://github.com/martiandeath/Road-Cross
-
 [Download](https://github.com/martiandeath/Road-Cross)
