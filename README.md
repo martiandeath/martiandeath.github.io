@@ -1,4 +1,4 @@
-## Banana Clicker iOS
+#### Banana Clicker iOS
 
 [Download](https://apps.apple.com/au/app/banana-clicker/id6446136684)
 
